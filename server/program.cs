@@ -11,5 +11,5 @@ switch (peak)
         Console.WriteLine(group); break;
     case 3:
         Console.WriteLine(time); break;
-    case 4:; break;
+    case 4: break;
 }
